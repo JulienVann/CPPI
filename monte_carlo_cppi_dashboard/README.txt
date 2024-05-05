@@ -7,7 +7,7 @@ Installation Instructions
 Follow these steps to set up and run the Monte Carlo simulation dashboard on your local machine:
 
 1. Clone the project repository from GitHub:
-git clone <repository_url>
+git clone <https://github.com/JulienVann/CPPI.git>
 cd monte_carlo_cppi_dashboard
 
 2. Install Required Python Packages:
