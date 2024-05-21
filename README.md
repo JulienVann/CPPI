@@ -25,10 +25,10 @@ Navigate to http://127.0.0.1:8050 to view the application.
 ## Usage
 The web dashboard consists of two plots:
 
-Left Plot (Simulated CPPI Strategy):
+- Left Plot (Simulated CPPI Strategy):
 Shows the portfolio value over time using the simulated CPPI strategy.
 
-Right Plot (Distribution of Terminal Values):
+- Right Plot (Distribution of Terminal Values):
 Displays the distribution of terminal values resulting from the CPPI Strategy.
 
 Interact with the dashboard:
